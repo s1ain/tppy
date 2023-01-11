@@ -33,7 +33,7 @@
     "gatsby-remark-autolink-headers": "^2.1.10",
     "gatsby-remark-vscode": "^2.0.3",
     "gatsby-source-filesystem": "^2.1.22",
-    "gatsby-transformer-remark": "^2.6.22",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.14",
     "moonlight": "github:atomiks/moonlight-vscode-theme",
     "normalize.css": "^8.0.1",
